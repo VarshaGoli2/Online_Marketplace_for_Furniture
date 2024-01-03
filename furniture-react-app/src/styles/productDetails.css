@@ -1,0 +1,27 @@
+.product_details {
+    margin-top: 70px;
+}
+
+.product_details h2 {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+.product_details p {
+    margin: 30px;
+}
+
+.product_price {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-left: 30px;
+}
+
+h1 {
+    display: flex;
+    margin-left: 30px;
+}
+
+.buy__btn {
+    margin-left: 30px;
+}

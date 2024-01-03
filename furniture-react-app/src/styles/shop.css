@@ -1,0 +1,40 @@
+.filter__widget select {
+    padding: 10px 20px;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.filter__widget select:focus {
+    outline: none !important;
+}
+
+.filter__widget select option {
+    font-size: 0.9rem;
+}
+
+/* Added a class to avoid, Header styling */
+.Shop.row {
+    display: inline-flex;
+}
+
+.search_box {
+    padding: 1px 2px;
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.search_box input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 8px;
+}

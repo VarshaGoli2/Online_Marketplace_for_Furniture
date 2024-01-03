@@ -1,0 +1,25 @@
+/* Profile.css */
+
+.profile-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile-info {
+    margin-bottom: 20px;
+  }
+  
+  .edit-profile-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  
+  
