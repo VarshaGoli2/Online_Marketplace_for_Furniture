@@ -27,7 +27,3 @@ Once both backend and frontend setups are completed, the project will be fully f
 
 username: admin
 password: Admin123!
-
-**user**
-username: harshapriya
-password: harshapriya
