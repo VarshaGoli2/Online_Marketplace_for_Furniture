@@ -1,18 +1,18 @@
 **Furni Mart Project**
 **Getting Started**
 
-Once you are in the WPL Project directory you can follow the given steps below:
+Once you are in the Project directory you can follow the given steps below:
 
 **Backend Setup**
 
-Navigate to the WPL Project in your terminal or command prompt.
+Navigate to the Project in your terminal or command prompt.
 Run ```npm i``` to install the required dependencies.
 Execute ```npm start``` to start the backend server.
 
 
 **Frontend Setup**
 
-Move to the furniture-react-app directory in the WPL Project in your terminal or command prompt by typing ``` cd .\furniture-react-app\```.
+Move to the furniture-react-app directory in the Project in your terminal or command prompt by typing ``` cd .\furniture-react-app\```.
 Run ```npm i``` to install the necessary frontend dependencies.
 Start the frontend by running ```npm start```.
 
